@@ -1,0 +1,184 @@
+Feature_cols,Coefficient
+const,64.4983695685217
+Year,0.6009477230059115
+Adult_mortality,-4.797702215900925
+illnesses,0.2715560912172119
+mortality_rates,-1.2022384970029245
+Country_Albania,5.966964062679147
+Country_Algeria,5.385079803259043
+Country_Angola,-3.719320334123781
+Country_Antigua and Barbuda,7.753532339131956
+Country_Argentina,6.921077443292418
+Country_Armenia,5.471606948891541
+Country_Australia,10.509232916297307
+Country_Austria,10.100095323740087
+Country_Azerbaijan,3.2489380338946345
+"Country_Bahamas, The",6.210372720682477
+Country_Bahrain,5.2896422244569585
+Country_Bangladesh,2.4317513810883646
+Country_Barbados,9.607449706949009
+Country_Belarus,6.09868184841331
+Country_Belgium,9.723045558099724
+Country_Belize,5.544559101737475
+Country_Benin,-1.357940266764678
+Country_Bhutan,3.614253356240189
+Country_Bolivia,2.653028358232975
+Country_Bosnia and Herzegovina,6.859586917130045
+Country_Botswana,1.9388688718259806
+Country_Brazil,6.051404171619266
+Country_Brunei Darussalam,4.786471388458356
+Country_Bulgaria,5.9124123964771265
+Country_Burkina Faso,-2.691952113717962
+Country_Burundi,-2.2257962784570586
+Country_Cabo Verde,3.166014162802675
+Country_Cambodia,0.9165464674990194
+Country_Cameroon,-0.8623410019409246
+Country_Canada,10.800252081574108
+Country_Central African Republic,-1.107090705374194
+Country_Chad,-2.3326961306880705
+Country_Chile,8.831024963729234
+Country_China,4.490129689854596
+Country_Colombia,8.021338172960949
+Country_Comoros,0.20972954916028286
+"Country_Congo, Dem. Rep.",-2.0520216995761142
+"Country_Congo, Rep.",0.29193940153852616
+Country_Costa Rica,9.128040000506875
+Country_Cote d'Ivoire,-0.18641526119191365
+Country_Croatia,6.819217390348339
+Country_Cuba,8.632398388405923
+Country_Cyprus,8.14338238025374
+Country_Czechia,7.601166595004685
+Country_Denmark,8.79964489767845
+Country_Djibouti,0.06982575208697384
+Country_Dominican Republic,5.841173539349889
+Country_Ecuador,7.30079902663983
+"Country_Egypt, Arab Rep.",3.595109574431726
+Country_El Salvador,5.832818139432142
+Country_Equatorial Guinea,-0.5464520037108542
+Country_Eritrea,0.8304390681679932
+Country_Estonia,7.340949947159682
+Country_Eswatini,-2.5084557240078205
+Country_Ethiopia,0.4930157527432826
+Country_Fiji,1.4669493681150731
+Country_Finland,9.799659382837937
+Country_France,11.534149846256259
+Country_Gabon,0.460973435550442
+"Country_Gambia, The",-1.7845475221185092
+Country_Georgia,5.204364559433331
+Country_Germany,9.527144780175057
+Country_Ghana,-0.9879459819410528
+Country_Greece,9.459826029555984
+Country_Grenada,5.9166687533632345
+Country_Guatemala,5.565862061550982
+Country_Guinea,-2.0299391920714207
+Country_Guinea-Bissau,-4.242184440050766
+Country_Guyana,3.478968805196308
+Country_Haiti,0.18977141143711407
+Country_Honduras,5.9419349113799385
+Country_Hungary,7.095080157126138
+Country_Iceland,10.635778873399383
+Country_India,2.0056455775622712
+Country_Indonesia,3.353242965655479
+"Country_Iran, Islamic Rep.",4.514402439689901
+Country_Iraq,3.4137709665040266
+Country_Ireland,9.139843598220097
+Country_Israel,10.052010874823036
+Country_Italy,10.523661970413626
+Country_Jamaica,7.041844159906656
+Country_Japan,11.791127598872077
+Country_Jordan,4.632294081814356
+Country_Kazakhstan,4.799906878086828
+Country_Kenya,-0.09570174593366088
+Country_Kiribati,1.5860067594005027
+Country_Kuwait,3.641052224190225
+Country_Kyrgyz Republic,4.453078751150095
+Country_Lao PDR,1.0036871648973573
+Country_Latvia,7.282390879534128
+Country_Lebanon,7.510242009514929
+Country_Lesotho,-1.8797132467203275
+Country_Liberia,-0.4968588263188387
+Country_Libya,4.145418229280638
+Country_Lithuania,7.500144842194857
+Country_Luxembourg,9.589715548745897
+Country_Madagascar,1.0124059085705168
+Country_Malawi,0.009594873312916086
+Country_Malaysia,5.900894184016323
+Country_Maldives,4.882203191710986
+Country_Mali,-3.75070287006404
+Country_Malta,9.142621139094194
+Country_Mauritania,-0.06093568981999553
+Country_Mauritius,5.9729983786845935
+Country_Mexico,6.808589390711515
+"Country_Micronesia, Fed. Sts.",0.34950128081892373
+Country_Moldova,4.404204062140085
+Country_Mongolia,3.120675392282754
+Country_Montenegro,6.539636122085119
+Country_Morocco,3.8600843779422593
+Country_Mozambique,-1.8128315019579109
+Country_Myanmar,-0.27009206413244113
+Country_Namibia,0.41029150323980446
+Country_Nepal,1.878597218687549
+Country_Netherlands,9.466824858897034
+Country_New Zealand,9.958262499011433
+Country_Nicaragua,5.711970056050349
+Country_Niger,-2.936592269362265
+Country_Nigeria,-3.064283717797231
+Country_North Macedonia,5.543018610863436
+Country_Norway,9.990426623603787
+Country_Oman,5.723300106347409
+Country_Pakistan,1.0495031183576895
+Country_Panama,8.292339037723643
+Country_Papua New Guinea,-0.44690379246325485
+Country_Paraguay,5.586565140588145
+Country_Peru,6.189606809469224
+Country_Philippines,5.441648153641637
+Country_Poland,7.720691577039801
+Country_Portugal,9.199135898242414
+Country_Qatar,7.845435627004274
+Country_Romania,5.8943761373245716
+Country_Russian Federation,5.70786687326409
+Country_Rwanda,0.13293795904301575
+Country_Samoa,4.0326159276454945
+Country_Sao Tome and Principe,1.4470538190110869
+Country_Saudi Arabia,4.260840768132583
+Country_Senegal,-0.25430632484919613
+Country_Serbia,5.918695208902259
+Country_Seychelles,5.982835410459483
+Country_Sierra Leone,-1.440367975344496
+Country_Singapore,9.815672699115426
+Country_Slovak Republic,6.7271806372346825
+Country_Slovenia,9.18242180812995
+Country_Solomon Islands,4.511482566247374
+Country_Somalia,-0.9614099686459525
+Country_South Africa,3.495096600552113
+Country_Spain,10.598429710915013
+Country_Sri Lanka,6.567104119355031
+Country_St. Lucia,7.499714125686395
+Country_St. Vincent and the Grenadines,5.137223542534144
+Country_Suriname,4.529740496522247
+Country_Sweden,10.420558679602305
+Country_Switzerland,10.874996412024576
+Country_Syrian Arab Republic,5.786071537050599
+Country_Tajikistan,0.8165070333753182
+Country_Tanzania,-0.5172293330821933
+Country_Thailand,6.798760208218946
+Country_Timor-Leste,1.377094807077417
+Country_Togo,-2.07327542092209
+Country_Tonga,2.861375817988373
+Country_Trinidad and Tobago,5.639035236286112
+Country_Tunisia,5.440639666299859
+Country_Turkiye,5.530616115856198
+Country_Turkmenistan,1.7320051182100737
+Country_Uganda,-0.14197506513804115
+Country_Ukraine,6.217039519662606
+Country_United Arab Emirates,5.797075711725903
+Country_United Kingdom,9.515869650287435
+Country_United States,9.086155075005207
+Country_Uruguay,7.61620358931728
+Country_Uzbekistan,2.881685679827818
+Country_Vanuatu,2.468255843657353
+"Country_Venezuela, RB",6.121337771693995
+Country_Vietnam,6.722470402193589
+"Country_Yemen, Rep.",2.2186121630231774
+Country_Zambia,-0.006606057163943468
+Country_Zimbabwe,0.7632541044604464
