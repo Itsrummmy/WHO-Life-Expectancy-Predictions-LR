@@ -22,8 +22,6 @@
     </li>
     <li>
       <a href="#conclusion">Conclusion</a>
-    </li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
