@@ -2,14 +2,12 @@
 
 # WHO Life Expectancy Predictions Project
 
-## Project 4 of the Digital Futures Academy
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#project-overview">Project Overview</a>
     </li>
     <li>
       <a href="#tools-used">Tools Used</a>
@@ -27,10 +25,10 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- PROJECT OVERVIEW -->
+## Project Overview
 
-This project is the final assignment for the continuous modelling section of the Predictive Modelling module at Digital Futures Academy. I developed two linear regression models to predict life expectancy for each country in the dataset between 2000 and 2015. The first model is designed to prioritize accuracy, while the second is simplified to focus on ethical considerations, particularly regarding the inclusion of features that may have financial implications for countries. Throughout the project, I balanced model complexity with accuracy, considering whether slight improvements in RMSE justify the inclusion of insignificant features that may add unnecessary complexity. The goal was to create trustworthy, ethically sound models that are sensitive to the data privacy concerns of individual countries. The baseline RMSE for the accurate model was set at 2 for this project.
+Project involved building two linear regression models to predict life expectancy using a dataset from 2000 and 2015. The first model is designed to prioritize accuracy, while the second is simplified to focus on ethical considerations. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
