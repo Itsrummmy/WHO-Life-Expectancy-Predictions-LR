@@ -52,8 +52,7 @@ Project involved building two linear regression models to predict life expectanc
 <!-- Deliverables -->
 ## Deliverables
 
-* Code broken down in relevant sections across multiple .ipynb files (EDA, feature engineering, modelling, testing).
-* An interactive function, which must work by itself in an individual .ipynb file.
+Notebook with different sections of the model (EDA, feature engineering, modelling, testing) including a separate interactive function.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,11 +61,9 @@ Project involved building two linear regression models to predict life expectanc
 <!-- Outcomes -->
 ## Outcomes
 
-* The R-Squrared statistic for the accurate and ethical model was 0.984 and 0.944 respectively.
+* The R-Squrared statistic for the accurate and ethical model were 0.984 and 0.944 respectively.
 * The RMSE on the test data for both models was 1.243 and 2.213 respectively (outperforming the given baseline).
-* The Country feature was found to be far too powerful in predicting life expectancy so any prediction would be dependent on the country rather than any other inputted features. This raised ethical concerns for underperforming countries so this feature was removed from both models.
 * Features relating to immunisation converage and disease incidence were removed from the ethical model because these features reflect directly on the healthcare infrastructure of the country which could put financial pressure on a country to increases funding.
-* Features relating to thinness prevalence are a reflection on levels of nutrition across a country which is sensitive information. These features were therefore removed from the ethical model.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
