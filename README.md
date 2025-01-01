@@ -81,8 +81,3 @@ This project effectively delivered two predictive linear regression models and a
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-Katrina Booth: katrinalilybooth@gmail.com
-
-Project Link: [https://github.com/KatrinaBooth/WHO-Life-Expectancy-Predictions](https://github.com/KatrinaBooth/WHO-Life-Expectancy-Predictions)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
