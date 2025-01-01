@@ -37,7 +37,6 @@ Project involved building two linear regression models to predict life expectanc
 ## Tools Used
 
 * **Python**: For exploratory data analysis and modeling.
-* **Jupyter Lab**: IDE for the project.
 * **Libraries**:
   * `numpy`
   * `pandas`
