@@ -61,9 +61,9 @@ Notebook with different sections of the model (EDA, feature engineering, modelli
 <!-- Outcomes -->
 ## Outcomes
 
-* The R-Squrared statistic for the accurate and ethical model were 0.984 and 0.944 respectively.
-* The RMSE on the test data for both models was 1.243 and 2.213 respectively (outperforming the given baseline).
-* Features relating to immunisation converage and disease incidence were removed from the ethical model because these features reflect directly on the healthcare infrastructure of the country which could put financial pressure on a country to increases funding.
+* The test RMSE for both models (robust and ethical) were 0.557 and 1.619 (7 months and 1 year, 9 months) respectively.
+* The ethical model was primarily based on just two features: adult mortality and infant deaths.
+* The ethical model emerged as our preferred choice for predicting life expectancy due to its demonstrable lack of bias, , and aligning with all our ethical considerations.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
