@@ -75,5 +75,3 @@ Notebook with different sections of the model (EDA, feature engineering, modelli
 
 This project effectively delivered two predictive linear regression models and an interactive function for estimating life expectancy, prioritizing both model precision and ethical standards. The robust model demonstrated superior predictive performance with a much lower RMSE, while the ethical model provided a more globally acceptable alternative with no significant biases.
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
